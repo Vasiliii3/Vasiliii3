@@ -1,10 +1,11 @@
-- Hi! My name is Vasily Antoshin
-- Interested in and learning Python I started my journey into the world of programming 1 year ago. At this stage, I completed the Hexlet course and am looking for a job.
+* Hi! My name is Vasily Antoshin. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+* I'm a Python Backend Developer.
 
-*   🌍  I'm based in Moscow, Russia
-*   🖥️  See my portfolio at [My Portfolio](https://github.com/Vasiliii3?tab=repositories)
-*   ✉️  You can contact me at [Telegram](https://t.me/Vasilii19855) or [email](mailto:antoshin.vas@mail.ru)
-*   🧠  I'm learning Django
+* I'm live in Moscow, Russia
+* I'm looking for a job for a Python Backend developer position. I am considering the format of both remote and office work, full or part-time.
+* See my portfolio at [My Portfolio](https://github.com/Vasiliii3?tab=repositories)
+* You can contact me at [Telegram](https://t.me/Vasilii19855) or [email](mailto:antoshin.vas@mail.ru)
+
 
 ### Skills 
 <p align="left">
@@ -24,7 +25,7 @@
 ### CV
 
 <div id="badges" align="left">
-  <a href="https://cv.hexlet.io/ru/resumes/1799">
+  <a href="https://hh.ru/resume/9057ff14ff0c7eb1860039ed1f697942463478">
     <img src="https://img.shields.io/badge/My%20CV-brightgreen?&logoColor=white&style=for-the-badge" alt="My CV"/>
   </a>
 </div>
